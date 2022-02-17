@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/maguimn/github-readme-stats%22%3E
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=maguimn&theme=synthwave&show_icons=true" />
+</a>
+<a href="https://github.com/maguimn/convoychat%22%3E
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maguimn&theme=synthwave" />
+</a>
